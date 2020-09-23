@@ -1,0 +1,7 @@
+.display{
+    display: inline;
+}
+
+.keys{
+    display: grid;
+}
